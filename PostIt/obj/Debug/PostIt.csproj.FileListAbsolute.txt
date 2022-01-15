@@ -1,0 +1,11 @@
+C:\Users\302-PC\source\repos\PostIt\PostIt\bin\Debug\PostIt.exe.config
+C:\Users\302-PC\source\repos\PostIt\PostIt\bin\Debug\PostIt.exe
+C:\Users\302-PC\source\repos\PostIt\PostIt\bin\Debug\PostIt.pdb
+C:\Users\302-PC\source\repos\PostIt\PostIt\obj\Debug\PostIt.csproj.AssemblyReference.cache
+C:\Users\302-PC\source\repos\PostIt\PostIt\obj\Debug\PostIt.csproj.SuggestedBindingRedirects.cache
+C:\Users\302-PC\source\repos\PostIt\PostIt\obj\Debug\PostIt.Form1.resources
+C:\Users\302-PC\source\repos\PostIt\PostIt\obj\Debug\PostIt.Properties.Resources.resources
+C:\Users\302-PC\source\repos\PostIt\PostIt\obj\Debug\PostIt.csproj.GenerateResource.cache
+C:\Users\302-PC\source\repos\PostIt\PostIt\obj\Debug\PostIt.csproj.CoreCompileInputs.cache
+C:\Users\302-PC\source\repos\PostIt\PostIt\obj\Debug\PostIt.exe
+C:\Users\302-PC\source\repos\PostIt\PostIt\obj\Debug\PostIt.pdb

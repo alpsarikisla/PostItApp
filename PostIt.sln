@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostIt", "PostIt\PostIt.csproj", "{8F95E621-20F6-4CD9-97FD-044630D713BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F95E621-20F6-4CD9-97FD-044630D713BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F95E621-20F6-4CD9-97FD-044630D713BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F95E621-20F6-4CD9-97FD-044630D713BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F95E621-20F6-4CD9-97FD-044630D713BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFC8FD93-4A36-4E3B-8802-88539740C001}
+	EndGlobalSection
+EndGlobal
