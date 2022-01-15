@@ -1,0 +1,2 @@
+# PostItApp
+Çakma WordPad Uygulaması
